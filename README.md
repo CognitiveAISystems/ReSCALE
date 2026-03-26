@@ -6,12 +6,14 @@
 
 
 <p align="center">
-<img src="assests/scheme.png">
+<img src="assests/scheme.svg">
 </p>
 
-<p align="center">
-<img src="assests/GSM8K.png" width="50%">
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (<img src="assests/GSM8K.png" width="50%">)
+
+[//]: # (</p>)
 
 
 **GSM8k**

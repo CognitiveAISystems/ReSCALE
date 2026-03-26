@@ -160,3 +160,17 @@ python scripts/game24_bon.py --dataset_path tsllm/envs/game24/train_data/test_de
 `RuntimeError: Library libcublas.so.11 is not found or cannot be loaded`
 
 https://github.com/OpenNMT/CTranslate2/issues/1250#issuecomment-1936533861
+
+## Citation
+
+```bibtex
+@misc{ugadiarov2026revisiting,
+      title={Revisiting Tree Search for LLMs: Gumbel and Sequential Halving for Budget-Scalable Reasoning},
+      author={Leonid Ugadiarov and Yuri Kuratov and Aleksandr Panov and Alexey Skrynnik},
+      year={2026},
+      eprint={2603.21162},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2603.21162},
+}
+```

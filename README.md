@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="assests/scheme.svg">
+<img src="assests/scheme.svg" width="100%">
 </p>
 
 [//]: # (<p align="center">)
